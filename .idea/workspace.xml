@@ -4,32 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40615ddb-0a68-438f-902e-0880c59c36ea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/DataStructures.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BTree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BinomialHeap.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FiboncciHeap.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KDTree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QuadTree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RBNode.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RBTree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RTree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/binaryHeapNode.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/display_RBTree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maxBinaryHeap.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/minBinaryHeap.py" afterDir="false" />
+    <list default="true" id="40615ddb-0a68-438f-902e-0880c59c36ea" name="Changes" comment="RBTree_v1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -39,8 +25,23 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {}
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/yuda03979/DataStructure",
+    "accountId": "df3c83b7-4bbc-4331-a26d-999d78dfe6ff"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -136,11 +137,84 @@
       <workItem from="1720353749418" duration="4505000" />
       <workItem from="1720361315486" duration="18000" />
       <workItem from="1720371304009" duration="1933000" />
+      <workItem from="1720467433111" duration="1334000" />
     </task>
+    <task id="LOCAL-00001" summary="RBTree_v1">
+      <option name="closed" value="true" />
+      <created>1720467575497</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720467575497</updated>
+    </task>
+    <task id="LOCAL-00002" summary="RBTree_v1">
+      <option name="closed" value="true" />
+      <created>1720467808315</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1720467808315</updated>
+    </task>
+    <task id="LOCAL-00003" summary="RBTree_v1">
+      <option name="closed" value="true" />
+      <created>1720467835219</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1720467835219</updated>
+    </task>
+    <task id="LOCAL-00004" summary="RBTree_v1">
+      <option name="closed" value="true" />
+      <created>1720467853548</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1720467853548</updated>
+    </task>
+    <task id="LOCAL-00005" summary="RBTree_v1">
+      <option name="closed" value="true" />
+      <created>1720467994899</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1720467994899</updated>
+    </task>
+    <task id="LOCAL-00006" summary="RBTree_v1">
+      <option name="closed" value="true" />
+      <created>1720468113458</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1720468113458</updated>
+    </task>
+    <task id="LOCAL-00007" summary="RBTree_v1">
+      <option name="closed" value="true" />
+      <created>1720468204719</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1720468204719</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="RBTree_v1" />
+    <option name="LAST_COMMIT_MESSAGE" value="RBTree_v1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
